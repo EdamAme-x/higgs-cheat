@@ -8,3 +8,4 @@ function typeKey(){if(!document.querySelector("[class^='Typing_roman__']")||glob
 
 現在は対策済みです
 [https://x.com/amex2189/status/1692939183571214362](https://x.com/amex2189/status/1692939183571214362)
+しかしまだ抜け穴が有るので探って見てください…
